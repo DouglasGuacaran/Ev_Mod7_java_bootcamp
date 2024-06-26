@@ -1,4 +1,4 @@
-package DouglasGuacaran.Eva_Int_Mod_6;
+package DouglasGuacaran.Eva_Int_Mod_7;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

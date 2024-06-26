@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>DouglasGuacaran</groupId>
-    <artifactId>Eva_Int_Mod_6</artifactId>
+    <artifactId>Eva_Int_Mod_7</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Eva_Int_Mod_6</name>
-    <description>Evaluacion Integradora del Modulo 6</description>
+    <name>Eva_Int_Mod_7</name>
+    <description>Evaluacion Integradora del Modulo 7</description>
     <url>http://www.example.com</url>
     <licenses>
         <license>
@@ -28,9 +28,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/douglasguacaran/Eva_Int_Mod_6.git</connection>
-        <developerConnection>scm:git:ssh://github.com/douglasguacaran/Eva_Int_Mod_6.git</developerConnection>
-        <url>http://github.com/douglasguacaran/Eva_Int_Mod_6</url>
+        <connection>scm:git:git://github.com/douglasguacaran/Ev_Mod7_java_bootcamp.git</connection>
+        <developerConnection>scm:git:ssh://github.com/douglasguacaran/Ev_Mod7_java_bootcamp.git</developerConnection>
+        <url>https://github.com/DouglasGuacaran/Ev_Mod7_java_bootcamp.git</url>
     </scm>
     <properties>
         <java.version>17</java.version>
@@ -43,10 +43,10 @@
             <version>6.1.10</version>
         </dependency>
         <dependency>
-		    <groupId>org.thymeleaf.extras</groupId>
-		    <artifactId>thymeleaf-extras-java8time</artifactId>
-		    <version>3.0.4.RELEASE</version>
-		</dependency>
+            <groupId>org.thymeleaf.extras</groupId>
+            <artifactId>thymeleaf-extras-java8time</artifactId>
+            <version>3.0.4.RELEASE</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
